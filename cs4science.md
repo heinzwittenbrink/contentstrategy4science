@@ -5,17 +5,17 @@ date: 2021-02-04
 
 ---
 
-# Science does not take place in content strategy
+# Cntent strategy without science
 
-## Content strategy takes place ROI-, not evidence-driven
+## Content strategy is usually ROI-, not evidence-driven
 
-<https://www.google.com/search? source=hp&ei=grwaYJ6mEOSTjLsP0IiUqAw&q=science+%22content+strategy%22&oq=science+%22content+strategy%22&gs_lcp=CgZwc3ktYWIQAzIGCAAQFhAeMgYIABAWEB46BQgAELEDOggIABCxAxCDAToICAAQxwEQrwE6CwgAELEDEMcBEKMCOgIIADoCCC46BAgAEAo6BAgAEBM6BggAEAoQEzoICAAQFhAeEBNQ7gtYyEFg_UVoAHAAeAGAAaICiAGJF5IBBzEzLjExLjKYAQCgAQGqAQdnd3Mtd2l6&sclient=psy- ab&ved=0ahUKEwie76q3_83uAhXkCWMBHVAEBcUQ4dUDCAY&uact=5>
+[Google Search 'Content strategy science'](https://www.google.com/search? source=hp&ei=grwaYJ6mEOSTjLsP0IiUqAw&q=science+%22content+strategy%22&oq=science+%22content+strategy%22&gs_lcp=CgZwc3ktYWIQAzIGCAAQFhAeMgYIABAWEB46BQgAELEDOggIABCxAxCDAToICAAQxwEQrwE6CwgAELEDEMcBEKMCOgIIADoCCC46BAgAEAo6BAgAEBM6BggAEAoQEzoICAAQFhAeEBNQ7gtYyEFg_UVoAHAAeAGAAaICiAGJF5IBBzEzLjExLjKYAQCgAQGqAQdnd3Mtd2l6&sclient=psy- ab&ved=0ahUKEwie76q3_83uAhXkCWMBHVAEBcUQ4dUDCAY&uact=5)
 
 ## Science as a key factor in political and social debate
 
 [Science Journalism: System Relevant | ZEIT ONLINE](https://www.zeit.de/wissen/gesundheit/2020-12/wissenschaftsjournalismus-corona-pandemie-informationen-forschung-recherche-expertise "Science Journalism: System Relevant | ZEIT ONLINE")
 
-## The ecological crises force a transformation of the economy and companies
+## The ecological crises force a transformation of the economy and businesses
 
 [Critical Zones](https://critical-zones.zkm.de/#!/keywords:Data%20visualization,Instruments,Laboratory,Sensors,Observation,Alternative%20cartography,Coevolution,Forest,Collaboration,Gradient,Landscape,Soil,Data%20analysis,Metamorphosis,Care,Cycles "Critical Zones")
 
@@ -23,13 +23,15 @@ date: 2021-02-04
 
 [Biden puts science at the top of his agenda | Science|Business](https://sciencebusiness.net/news/biden-puts-science-top-his-agenda "Biden puts science at the top of his agenda | Science|Business")
 
-# Science communication campaigns usually take place without a content strategy
+# Science communication without content strategy
 
 ## Sender-oriented communication models
 
 [Climate Outreach](https://climateoutreach.org/ "Climate Outreach")
 
 [Aktuelles | klimafakten.de](https://www.klimafakten.de/fakten-besser-vermitteln/neues-zum-thema "Aktuelles | klimafakten.de")
+
+---
 
 > Readers will come away with an enhanced understanding that there is no 'silver bullet' to communications about climate change; instead, a 'silver buckshot' approach is needed, where strategies effectively reach different audiences in different contexts.
 
@@ -40,16 +42,15 @@ date: 2021-02-04
 [RKI - Homepage](https://www.rki.de/EN/Home/homepage_node.html "RKI - Homepage")
 
 
-
-## Orientation towards traditional channels of publicity
+## Focus on traditional channels of public communication
 
 [PIK in the Media - Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/en/news/pik-in-the-media "PIK in the Media - Potsdam Institute for Climate Impact Research")
 
-## Scientific publishing opens up to the web only in small steps
+## Scientific publishing is still following print paradigms
 
 [Work is Half the Life - Wuppertal Institute for Climate, Environment, Energy](https://wupperinst.org/a/wi/a/s/ad/5108/ "Work is Half the Life - Wuppertal Institute for Climate, Environment, Energy")
 
-# Content strategy is not the same as communication strategy
+# Content strategy  ≠  communication strategy
 
 ## Communication on the net is user-centred
 
@@ -65,13 +66,39 @@ date: 2021-02-04
 
 [Glen Peters auf Twitter: "Your yearly update on coal use per person... Coal use per person has remained surprisingly flat for the last century, except for a short burst from China in the 2000s. The required growth for SSP5-85 (RCP8.5) is completely unprecedented... https://t.co/yWQurN8LW4" / Twitter](https://twitter.com/Peters_Glen/status/1356869831958663173 "Glen Peters auf Twitter: "Your yearly update on coal use per person... Coal use per person has remained surprisingly flat for the last century, except for a short burst from China in the 2000s. The required growth for SSP5-85 (RCP8.5) is completely unprecedented... https://t.co/yWQurN8LW4" / Twitter")
 
+## Communication on the web needs structured content
+
+- Content models
+- Metadata
+
+
+# Scientific communities as content providers
+
+## Scientific knowledge as knowledge of the scientific community
+
+> „much of what we identify as “science” are social practices and procedures of adjudication designed to ensure—or at least to attempt to increase the odds—that the process of review and correction are sufficiently robust as to lead to empirically reliable results“
+
+Naomi Oreskes.„Why Trust Science?“
+
+---
+
+> „The Intergovernmental Panel on Climate Change—now one of the world’s largest aggregations of scientists—makes a particular point of seeking geographical, national, racial, and gender diversity in its chapter-writing teams. “
+
+Naomi Oreskes. „Why Trust Science?.“  
+
+## Trust in the scientific community as overarching goal of content strategy for science
+
+> „It is a call for informed trust in the consensual conclusions of scientific communities, but not necessarily in the views or opinions of individual scientists, particularly not when they stray outside their domains of expertise.“
+
+Naomi Oreskes. „Why Trust Science?.“
+
 # State of knowledge and evidence synthesis
 
 ## State of knowledge as the centre of a content strategy for science
 
 [What is Evidence Synthesis? - A Guide to Evidence Synthesis - LibGuides at Cornell University](https://guides.library.cornell.edu/evidence-synthesis/intro "What is Evidence Synthesis? - A Guide to Evidence Synthesis - LibGuides at Cornell University")
 
-## Connection possibilities to scientific evidence synthesis
+## Connections to scientific evidence synthesis
 
 ![](https://onlinelibrary.wiley.com/cms/asset/2106da41-a954-46cf-b0b8-c95092ea199c/cl21128-fig-0001-m.png)
 
@@ -79,23 +106,7 @@ date: 2021-02-04
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xGdZQNHC8-k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# A scientific community as content provider
 
-## Scientific knowledge as knowledge of the scientific community
-
-> „much of what we identify as “science” are social practices and procedures of adjudication designed to ensure—or at least to attempt to increase the odds—that the process of review and correction are sufficiently robust as to lead to empirically reliable results“
-
-Naomi Oreskes. „Why Trust Science?.“
-
-> „The Intergovernmental Panel on Climate Change—now one of the world’s largest aggregations of scientists—makes a particular point of seeking geographical, national, racial, and gender diversity in its chapter-writing teams. “
-
-Naomi Oreskes. „Why Trust Science?.“  
-
-## Trust in the scientific community as a condition and goal of a content strategy for science
-
-> „It is a call for informed trust in the consensual conclusions of scientific communities, but not necessarily in the views or opinions of individual scientists, particularly not when they stray outside their domains of expertise.“
-
-Naomi Oreskes. „Why Trust Science?.“
 
 # Advocacy and Propaganda
 
@@ -109,14 +120,21 @@ Naomi Oreskes. „Why Trust Science?.“
 
 Nerlich, B. (2018). Climate change through an editorial lens. Nature Climate Change, 8(6), 459–460. https://doi.org/10.1038/s41558-018-0179-9
 
+---
+
 ## It brings its objects into the social discourse and is thus also partisanship
+
 > Also, the fossils of the science community are those who feel their work is done once they have done the field research, and have written up and published their findings. It is soothing to take that view. Yet more is needed to discharge substantive engagement. Through dialogue and creativity via additional ways of knowing and learning about climate change, we can enlarge possibilities for effective (climate) communication (see Chapter 4 for more). Similarly, information-deficit model approaches can be overcome through a sustained commitment to meeting people where they are through more creative and dialogical processes.
 
 # Practical contexts
 
 ## Content strategy for science is not simplification but translation for non-scientific contexts
 
-## Examples: Health, political decisions, products
+## Examples:
+
+ - Health,
+ - Political decisions
+ - Sustainable products
 
 ## It takes place dialogically
 
