@@ -15,7 +15,7 @@ date: 2021-02-04
 
 [Science Journalism: System Relevant | ZEIT ONLINE](https://www.zeit.de/wissen/gesundheit/2020-12/wissenschaftsjournalismus-corona-pandemie-informationen-forschung-recherche-expertise "Science Journalism: System Relevant | ZEIT ONLINE")
 
-## The ecological crises force a transformation of the economy and companies 
+## The ecological crises force a transformation of the economy and companies
 
 [Critical Zones](https://critical-zones.zkm.de/#!/keywords:Data%20visualization,Instruments,Laboratory,Sensors,Observation,Alternative%20cartography,Coevolution,Forest,Collaboration,Gradient,Landscape,Soil,Data%20analysis,Metamorphosis,Care,Cycles "Critical Zones")
 
@@ -53,7 +53,7 @@ date: 2021-02-04
 
 ## Communication on the net is user-centred
 
-# Search
+* Search
 * Share
 * Subscribe
 
@@ -65,7 +65,7 @@ date: 2021-02-04
 
 [Glen Peters auf Twitter: "Your yearly update on coal use per person... Coal use per person has remained surprisingly flat for the last century, except for a short burst from China in the 2000s. The required growth for SSP5-85 (RCP8.5) is completely unprecedented... https://t.co/yWQurN8LW4" / Twitter](https://twitter.com/Peters_Glen/status/1356869831958663173 "Glen Peters auf Twitter: "Your yearly update on coal use per person... Coal use per person has remained surprisingly flat for the last century, except for a short burst from China in the 2000s. The required growth for SSP5-85 (RCP8.5) is completely unprecedented... https://t.co/yWQurN8LW4" / Twitter")
 
-## State of knowledge and evidence synthesis
+# State of knowledge and evidence synthesis
 
 ## State of knowledge as the centre of a content strategy for science
 
@@ -79,13 +79,13 @@ date: 2021-02-04
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xGdZQNHC8-k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Scientific community as content provider
+# A scientific community as content provider
 
 ## Scientific knowledge as knowledge of the scientific community
 
 > „much of what we identify as “science” are social practices and procedures of adjudication designed to ensure—or at least to attempt to increase the odds—that the process of review and correction are sufficiently robust as to lead to empirically reliable results“
 
-Naomi Oreskes. „Why Trust Science?.“ 
+Naomi Oreskes. „Why Trust Science?.“
 
 > „The Intergovernmental Panel on Climate Change—now one of the world’s largest aggregations of scientists—makes a particular point of seeking geographical, national, racial, and gender diversity in its chapter-writing teams. “
 
@@ -95,15 +95,17 @@ Naomi Oreskes. „Why Trust Science?.“
 
 > „It is a call for informed trust in the consensual conclusions of scientific communities, but not necessarily in the views or opinions of individual scientists, particularly not when they stray outside their domains of expertise.“
 
-Naomi Oreskes. „Why Trust Science?.“ 
+Naomi Oreskes. „Why Trust Science?.“
 
 # Advocacy and Propaganda
 
-> I interrogate different approaches to climate advocacy, and animate their promises and pitfalls in the context of highly politicized deliberations on climate change in the public sphere. Nested in here, I argue that the conflation of these advocacy approaches between Type I advocacy (advocacy for [scientific] evidence) and Type II advocacy (advocacy for policy outcomes) contributes to confusion, apolitical intellectualism and excessive restraint that then increases the prevalence of Type 0 advocacy. Type 0 advocacy as inaction is then effectively a form of action. 
+## Advocacy for science
+
+> I interrogate different approaches to climate advocacy, and animate their promises and pitfalls in the context of highly politicized deliberations on climate change in the public sphere. Nested in here, I argue that the conflation of these advocacy approaches between Type I advocacy (advocacy for [scientific] evidence) and Type II advocacy (advocacy for policy outcomes) contributes to confusion, apolitical intellectualism and excessive restraint that then increases the prevalence of Type 0 advocacy. Type 0 advocacy as inaction is then effectively a form of action.
 
 ## Content strategy for science must connect to existing framing
 
->  We all make sense of the world through cultural and political lenses. This also applies to editorials that make sense of science in and for the world. Given that climate change has become an issue through which some groups and individuals define themselves, it is important to determine how perceptions of self, other and climate change are at least partially shaped by high-level editorial opinion pieces and how they, in turn, may be shaped by the culture in which they are written and the personalities who write them. 
+>  We all make sense of the world through cultural and political lenses. This also applies to editorials that make sense of science in and for the world. Given that climate change has become an issue through which some groups and individuals define themselves, it is important to determine how perceptions of self, other and climate change are at least partially shaped by high-level editorial opinion pieces and how they, in turn, may be shaped by the culture in which they are written and the personalities who write them.
 
 Nerlich, B. (2018). Climate change through an editorial lens. Nature Climate Change, 8(6), 459–460. https://doi.org/10.1038/s41558-018-0179-9
 
@@ -118,7 +120,7 @@ Nerlich, B. (2018). Climate change through an editorial lens. Nature Climate Cha
 
 ## It takes place dialogically
 
-> The growing emphasis on ‘knowledge co-production’ (iterative engagement with diverse knowledge holders to produce knowledge relevant to decision-making), was evident in many cases (eg SESYNC, SNAPP, Peatlands Inquiry). This approach rests on the assumption that more relevant, and therefore more useful knowledge will be produced if it is done so in collaboration with those who will use it. 
+> The growing emphasis on ‘knowledge co-production’ (iterative engagement with diverse knowledge holders to produce knowledge relevant to decision-making), was evident in many cases (eg SESYNC, SNAPP, Peatlands Inquiry). This approach rests on the assumption that more relevant, and therefore more useful knowledge will be produced if it is done so in collaboration with those who will use it.
 
 Wyborn, C., Louder, E., Harrison, J., Montambault, J., Montana, J., Ryan, M., Bednarek, A., Nesshöver, C., Pullin, A., Reed, M., Dellecker, E., Kramer, J., Boyd, J., Dellecker, A., & Hutton, J. (2018). Understanding the Impacts of Research Synthesis. Environmental Science & Policy, 86, 72–84. https://doi.org/10.1016/j.envsci.2018.04.013
 
@@ -142,7 +144,7 @@ Wyborn, C., Louder, E., Harrison, J., Montambault, J., Montana, J., Ryan, M., Be
 ## Linking takes place with everything relevant to the state of research
 [State of the climate: 2020 on course to be warmest year on record](https://www.carbonbrief.org/state-of-the-climate-2020-on-course-to-be-warmest-year-on-record "State of the climate: 2020 on course to be warmest year on record")
 
-## Empathy
+# Empathy
 
 ## Consideration for users includes understanding their emotional situations
 
@@ -152,9 +154,9 @@ Wyborn, C., Louder, E., Harrison, J., Montambault, J., Montana, J., Ryan, M., Be
 
 [More Than Scientists - YouTube](https://www.youtube.com/channel/UCEmB43XYqXFJNEs-VY1tw_g "(839) More Than Scientists - YouTube")
 
-## Public responsibility and non-scientific authorities
+# Public responsibility and non-scientific authorities
 
-## Content strategy for science takes place beyond the boundaries of scientific space 
+## Content strategy for science takes place beyond the boundaries of scientific space
 
 [Christian Drosten: Presserat rügt "Bild" für Umgang mit Berliner Virologen | ZEIT ONLINE](https://www.zeit.de/gesellschaft/zeitgeschehen/2020-09/christian-drosten-deutscher-presserat-corona-studie-berichterstattung-bild-zeitung "Christian Drosten: Presserat rügt "Bild" für Umgang mit Berliner Virologen | ZEIT ONLINE")
 
@@ -163,11 +165,8 @@ Wyborn, C., Louder, E., Harrison, J., Montambault, J., Montana, J., Ryan, M., Be
 [Ein Projekt der Klaus Tschira Stiftung | Treffen Sich Welten](https://treffensichwelten.de/ "Ein Projekt der Klaus Tschira Stiftung | Treffen Sich Welten")
 
 
-# Summary 
+# Summary
 
-Content strategy 4 science transfers the user-oriented, holistic digital first approach of the Content Strategy to the life cycle of scientific content. It is understood as the content of a scientific community through which this community interacts with the public and stakeholders. The content adapts to its users through dialogue. 
+---
 
-
-
-
-
+Content strategy 4 science transfers the user-oriented, holistic digital first approach of the Content Strategy to the life cycle of scientific content. It is understood as the content of a scientific community through which this community interacts with the public and stakeholders. The content adapts to its users through dialogue.
